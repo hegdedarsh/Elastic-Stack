@@ -1,1 +1,7 @@
-test
+## Install X-Pack
+
+1)Download the X-Pack binary
+
+wget https://artifacts.elastic.co/downloads/packs/x-pack/x-pack-6.2.4.zip
+
+
